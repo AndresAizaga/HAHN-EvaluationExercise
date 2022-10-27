@@ -1,0 +1,78 @@
+{
+  "productsList": [
+    {
+      "name": "Andres",
+      "email": "andres@mail.com",
+      "phone": "12345",
+      "age": 32,
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "productCategory": "Fruits",
+      "freshness": "Brand New",
+      "description": "Mango is famous in Summer season",
+      "price": 230,
+      "comment": "use before 15 days",
+      "date": "2022-01-01T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "name": "Jonatan",
+      "email": "jona@mail.com",
+      "phone": "45234",
+      "age": 25,
+      "id": 3
+    },
+    {
+      "productName": "One Plus 9 Pro",
+      "productCategory": "Electronics",
+      "freshness": "Refurbished",
+      "description": "Latest model of Oneplus device",
+      "price": 35000,
+      "comment": "Looks brand new",
+      "date": "2022-01-09T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Carrot",
+      "productCategory": "Fruits",
+      "freshness": "Brand New",
+      "description": "Good for eyes",
+      "price": 34,
+      "comment": "Use before 18 days",
+      "date": "2022-01-11T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Samsung S10",
+      "productCategory": "Electronics",
+      "freshness": "Refurbished",
+      "description": "This is old phone",
+      "price": 1500,
+      "comment": "This is not new phone",
+      "date": "2022-01-22T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "fghjk",
+      "productCategory": "Fruits",
+      "freshness": "Brand New",
+      "description": "hnjm",
+      "price": 22,
+      "comment": "df",
+      "date": "2022-10-05T05:00:00.000Z",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
